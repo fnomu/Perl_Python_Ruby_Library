@@ -825,7 +825,7 @@ Module::Build::Platform::VMS
 Module::Build::Platform::VOS
 Module::Build::Platform::Windows
 Module::Build::PodParser
-Module::Build::Maker.pm
+Module::Build::Maker
 Module::Build::Tiny
 Module::Build::XSUtil
 Module::Build
@@ -1571,3 +1571,5 @@ Const::Fast
 CPAN::Meta
 CPAN::Perl::Releases
 CPAN::Uploader
+File::Spec
+File::Path
